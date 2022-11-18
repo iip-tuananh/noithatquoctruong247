@@ -53,7 +53,7 @@
             <div class="col-sm-12 col-xs-12">
                 <div class="why-akisa">
                     <div class="title-why">
-                        <h2>Tại sao chọn Đồ Gỗ Mỹ Nghệ Anh Trường</h2>
+                        <h2>Tại sao chọn Đồ Gỗ Mỹ Nghệ Quốc Trưởng</h2>
                         <p><img nh-lazy data-src="{{url('frontend/images/1585125169-512041082-custom.png')}}" alt="" width="150" height="25" /></p>
                     </div>
                     <div class="content-why">
@@ -65,7 +65,7 @@
                                     </div>
                                     <div class="info-text">
                                         <h3>Thiết kế sáng tạo</h3>
-                                        <p class="hidden-xs">Với đội ngũ Thợ có chuyên môn năng lực cao, năng động, sáng tạo, Đồ Gỗ Mỹ Nghệ Anh Trường luôn mang đến những thiết kế ấn tượng, độc đáo, dẫn đầu xu thế.</p>
+                                        <p class="hidden-xs">Với đội ngũ Thợ có chuyên môn năng lực cao, năng động, sáng tạo, Đồ Gỗ Mỹ Nghệ Quốc Trưởng luôn mang đến những thiết kế ấn tượng, độc đáo, dẫn đầu xu thế.</p>
                                     </div>
                                 </div>
                             </div>
@@ -76,7 +76,7 @@
                                     </div>
                                     <div class="info-text">
                                         <h3>Kết hợp phong thủy</h3>
-                                        <p class="hidden-xs">Với trên 10 năm kinh nghiệm, Đồ Gỗ Mỹ Nghệ Anh Trường tự tin đảm bảo cho khách hàng mặt bằng công năng thông minh, mà vẫn tính toán kỹ lưỡng về phong thủy.</p>
+                                        <p class="hidden-xs">Với trên 10 năm kinh nghiệm, Đồ Gỗ Mỹ Nghệ Quốc Trưởng tự tin đảm bảo cho khách hàng mặt bằng công năng thông minh, mà vẫn tính toán kỹ lưỡng về phong thủy.</p>
                                     </div>
                                 </div>
                             </div>
@@ -109,7 +109,7 @@
                                     </div>
                                     <div class="info-text">
                                         <h3>Đảm bảo tiến độ</h3>
-                                        <p class="hidden-xs">Đảm bảo tiến độ thực hiện hợp đồng của từng khách hàng. Cam kết chịu mọi trách nhiệm do nguyên nhân từ Đồ Gỗ Mỹ Nghệ Anh Trường.</p>
+                                        <p class="hidden-xs">Đảm bảo tiến độ thực hiện hợp đồng của từng khách hàng. Cam kết chịu mọi trách nhiệm do nguyên nhân từ Đồ Gỗ Mỹ Nghệ Quốc Trưởng.</p>
                                     </div>
                                 </div>
                             </div>
@@ -120,7 +120,7 @@
                                     </div>
                                     <div class="info-text">
                                         <h3>Hỗ trợ 24/7</h3>
-                                        <p class="hidden-xs">Bộ phận CSKH của Đồ Gỗ Mỹ Nghệ Anh Trường luôn lắng nghe và hỗ trợ mọi thắc mắc của khách hàng nhanh nhất có thể.</p>
+                                        <p class="hidden-xs">Bộ phận CSKH của Đồ Gỗ Mỹ Nghệ Quốc Trưởng luôn lắng nghe và hỗ trợ mọi thắc mắc của khách hàng nhanh nhất có thể.</p>
                                     </div>
                                 </div>
                             </div>
@@ -136,7 +136,7 @@
         <div class="row">
             <div class="col-sm-6 col-xs-12">
                 <div class="col-inner introduct-akisa">
-                    <h2><a href="{{route('aboutUs')}}">Đồ Gỗ Mỹ Nghệ Anh Trường</a>
+                    <h2><a href="{{route('aboutUs')}}">Đồ Gỗ Mỹ Nghệ Quốc Trưởng</a>
                         <p><img src="{{url('frontend/images/1585125169-512041082-custom.png')}}" alt="" style="height: 25px;" /></p>
                     </h2>
                     {!!$aboutUs->content!!}
@@ -220,7 +220,7 @@
         <div class="row">
             <div class="col-sm-12 col-xs-12">
                 <div class="title-intro">
-                    <h2>Các dịch vụ tại Đồ Gỗ Mỹ Nghệ Anh Trường</h2>
+                    <h2>Các dịch vụ tại Đồ Gỗ Mỹ Nghệ Quốc Trưởng</h2>
                     <p><img src="{{url('frontend/images/1585125169-512041082-custom.png')}}" alt="" style="height: 25px;" /></p>
                 </div>
             </div>

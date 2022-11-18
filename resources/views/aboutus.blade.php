@@ -1,6 +1,6 @@
 @extends('layouts.main.master')
 @section('title')
-Giới thiệu về Đồ Gỗ Mỹ Nghệ Anh Trường
+Giới thiệu về Đồ Gỗ Mỹ Nghệ Quốc Trưởng
 @endsection
 @section('description')
 Giới thiệu về chúng tôi

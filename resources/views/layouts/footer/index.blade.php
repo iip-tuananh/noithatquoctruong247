@@ -32,7 +32,7 @@
             <div class="col-sm-4">
                <div class="item_block" style="">
                   <div class="menu-footer-vertical  box-ft ">
-                     <p class="title-menu-ft">Dịch vụ tại Đồ Gỗ Mỹ Nghệ Anh Trường</p>
+                     <p class="title-menu-ft">Dịch vụ tại Đồ Gỗ Nội Thất Quốc Trưởng</p>
                      <div class="list-menu-fy">
                         <ul>
                            @foreach ($servicehome as $service)
@@ -87,7 +87,7 @@
             <div class="col-md-12">
                <div class="item_block" style="">
                   <p class="coppyright">
-                     Copyright 2022 © Đồ Gỗ Mỹ Nghệ Anh Trường, Design By SBT
+                     Copyright 2022 © Đồ Gỗ Nội Thất Quốc Trưởng, Design By SBT
                   </p>
                </div>
             </div>
